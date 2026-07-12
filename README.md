@@ -46,6 +46,23 @@ Contribuir com código e materiais educativos em português para a comunidade lo
   </a>
 </div>
 
+##
+<div align="center">
+  <img width="400" height="250" alt="Image" src="https://github.com/user-attachments/assets/4fc001b8-cefb-49a0-87f6-384c4db2b681" />
+  
+  <img width="400" height="250" alt="Image" src="https://github.com/user-attachments/assets/9aa2825e-ac4f-4eb4-a0ab-9a39711ecc32" />
+</div>
+
+## Minhas estatisticas
+
+<a href="https://github.com/devjocas/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devjocas&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devjocas&repo=convoychat" />
+</a>
+
+
 
 
 
