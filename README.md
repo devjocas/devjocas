@@ -1,14 +1,20 @@
-## Ola! Chamo-me Joaquim Eliseu👋
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Olá!+Chamo-me+Joaquim+Eliseu👋"
+      alt="Olá! Chamo-me Joaquim Eliseu"
+    />
+  </a>
+</div>
 
+##
 estudante da ciencia da computação, com foco em desenvolvimento Web e análise de dados. O meu percurso em programação é orientado por curiosidade prática e estudo sistemático, com foco principal em Python e JavaScript.
 
 ## Objetivo
-Tornar me desenvolvedor senior e analista de dados, trabalhar em projetos impactantes.
-Integrar conhecimentos de Python e JavaScript para criar soluções full‑stack e ferramentas de automatização.
-
-Melhorar práticas de teste, documentação e arquitetura de projetos.
-
-Contribuir com código e materiais educativos em português para a comunidade local.
+-Tornar me desenvolvedor senior e analista de dados, trabalhar em projetos impactantes.
+-Integrar conhecimentos de Python e JavaScript para criar soluções full‑stack e ferramentas de automatização.
+-Melhorar práticas de teste, documentação e arquitetura de projetos.
+-Contribuir com código e materiais educativos em português para a comunidade local.
 
 
 ## 💻 Tecnologias 
@@ -32,7 +38,15 @@ Contribuir com código e materiais educativos em português para a comunidade lo
   <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP 3.0.0" />
 </div>
 
-## Redes sociais
+## 📊 Base de dados
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</div>
+
+## 🛜 Redes sociais
 
 <div align="center">
   <a href="https://www.youtube.com/@DevJocas617" target="_blank">
