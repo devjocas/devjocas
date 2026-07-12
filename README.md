@@ -1,6 +1,6 @@
 ## Ola! Chamo-me Joaquim Eliseu👋
 
-estudante da ciencia da computação, com foco em desenvolvimento Web e analise de dados.O meu percurso em programação é orientado por curiosidade prática e estudo sistemático, com foco principal em Python e JavaScript.
+estudante da ciencia da computação, com foco em desenvolvimento Web e análise de dados. O meu percurso em programação é orientado por curiosidade prática e estudo sistemático, com foco principal em Python e JavaScript.
 
 # Objectivo
 Tornar me desenvolvedor senior e analista de dados, trabalhar em projetos impactantes.
@@ -53,14 +53,26 @@ Contribuir com código e materiais educativos em português para a comunidade lo
   <img width="400" height="250" alt="Image" src="https://github.com/user-attachments/assets/9aa2825e-ac4f-4eb4-a0ab-9a39711ecc32" />
 </div>
 
-## Minhas estatisticas
+##
+<!-- Snake animation -->
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/devjocas/devjocas/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/devjocas/devjocas/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/devjocas/devjocas/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>
 
-<a href="https://github.com/devjocas/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devjocas&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devjocas&repo=convoychat" />
-</a>
+
 
 
 
