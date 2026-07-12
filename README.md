@@ -1,14 +1,5 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Olá!+Chamo-me+Joaquim+Eliseu👋"
-      alt="Olá! Chamo-me Joaquim Eliseu"
-    />
-  </a>
-</div>
-
-##
-estudante da ciencia da computação, com foco em desenvolvimento Web e análise de dados. O meu percurso em programação é orientado por curiosidade prática e estudo sistemático, com foco principal em Python e JavaScript.
+<h2 align="center">Olá! Chamo-me Joaquim Eliseu 👋</h2>
+Estudante da ciencia da computação, com focando-me em desenvolvimento Web, análise de dados, e arquitectura de software. O meu percurso em programação é orientado por curiosidade prática e estudo sistemático, com foco principal em Python e JavaScript.
 
 ## Objetivo
 -Tornar me desenvolvedor senior e analista de dados, trabalhar em projetos impactantes.
