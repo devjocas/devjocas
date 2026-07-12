@@ -2,13 +2,14 @@
 Estudante da ciencia da computação, com focando-me em desenvolvimento Web, análise de dados, e arquitectura de software. O meu percurso em programação é orientado por curiosidade prática e estudo sistemático, com foco principal em Python e JavaScript.
 
 ## Objetivo
--Tornar me desenvolvedor senior e analista de dados, trabalhar em projetos impactantes.
--Integrar conhecimentos de Python e JavaScript para criar soluções full‑stack e ferramentas de automatização.
--Melhorar práticas de teste, documentação e arquitetura de projetos.
--Contribuir com código e materiais educativos em português para a comunidade local.
+- Tornar me desenvolvedor senior e analista de dados, trabalhar em projetos impactantes.<br>
+- Integrar conhecimentos de Python e JavaScript para criar soluções full‑stack e ferramentas de automatização.<br>
+- Melhorar práticas de teste, documentação e arquitetura de projetos.<br>
+- Fazer networking e Contribuir com código para desenvolvimento de projectos open-source.<br>
+- Trabalhar em uma BigTech (Nacional\internacional)
 
 
-## 💻 Tecnologias 
+## 💻 Tecnológias 
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
