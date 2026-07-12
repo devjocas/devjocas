@@ -2,7 +2,7 @@
 
 estudante da ciencia da computação, com foco em desenvolvimento Web e análise de dados. O meu percurso em programação é orientado por curiosidade prática e estudo sistemático, com foco principal em Python e JavaScript.
 
-# Objectivo
+## Objetivo
 Tornar me desenvolvedor senior e analista de dados, trabalhar em projetos impactantes.
 Integrar conhecimentos de Python e JavaScript para criar soluções full‑stack e ferramentas de automatização.
 
@@ -53,8 +53,7 @@ Contribuir com código e materiais educativos em português para a comunidade lo
   <img width="400" height="250" alt="Image" src="https://github.com/user-attachments/assets/9aa2825e-ac4f-4eb4-a0ab-9a39711ecc32" />
 </div>
 
-##
-<!-- Snake animation -->
+<!-- Snake animation --Para colocar animação de cobra-->
 <div align="center">
   <picture>
     <source
