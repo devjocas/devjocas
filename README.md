@@ -57,17 +57,8 @@ Estudante da ciência  da computação, focando-me em desenvolvimento Web, anál
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=devjocas&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=devjocas&theme=radical&hide_border=false)<br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=devjocas&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 ##
-<div align="center">
-  <img width="400" height="250" alt="Image" src="https://github.com/user-attachments/assets/4fc001b8-cefb-49a0-87f6-384c4db2b681" />
-  
-  <img width="400" height="250" alt="Image" src="https://github.com/user-attachments/assets/9aa2825e-ac4f-4eb4-a0ab-9a39711ecc32" />
-</div>
-
 <!-- Snake animation --Para colocar animação de cobra-->
 <div align="center">
   <picture>
