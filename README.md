@@ -1,5 +1,5 @@
 <h2 align="center">Olá! Chamo-me Joaquim Eliseu 👋</h2>
-Estudante da ciencia da computação, com focando-me em desenvolvimento Web, análise de dados, e arquitectura de software. O meu percurso em programação é orientado por curiosidade prática e estudo sistemático, com foco principal em Python e JavaScript.
+Estudante da ciência  da computação, focando-me em desenvolvimento Web, análise de dados, e arquitectura de software. O meu percurso em programação é orientado por curiosidade prática e estudo sistemático, com foco principal em Python e JavaScript.
 
 ## Objetivo
 - Tornar me desenvolvedor senior e analista de dados, trabalhar em projetos impactantes.<br>
@@ -27,6 +27,8 @@ Estudante da ciencia da computação, com focando-me em desenvolvimento Web, an�
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP 3.0.0" />
 </div>
 
